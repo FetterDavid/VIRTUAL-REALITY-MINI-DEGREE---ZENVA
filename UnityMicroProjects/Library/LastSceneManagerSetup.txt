@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Bowling/Scenes/Bowling.unity
+- path: Assets/Collisions/Scenes/Collisions.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
