@@ -53,8 +53,9 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Balloon Popper\_Scripts\Balloon.cs" />
     <Compile Include="Assets\Balloon Popper\_Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Balloon Popper\_Scripts\Balloon.cs" />
+    <Compile Include="Assets\Loops\_Scripts\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

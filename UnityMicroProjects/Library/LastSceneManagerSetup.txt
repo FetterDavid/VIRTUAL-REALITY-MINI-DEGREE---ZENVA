@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Balloon Popper/Scenes/BalloonPopper.unity
+- path: Assets/Loops/Scenes/Loops.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
