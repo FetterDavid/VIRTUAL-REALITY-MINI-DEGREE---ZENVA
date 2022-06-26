@@ -54,8 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Balloon Popper\_Scripts\ScoreManager.cs" />
-    <Compile Include="Assets\Balloon Popper\_Scripts\Balloon.cs" />
     <Compile Include="Assets\Loops\_Scripts\Spawner.cs" />
+    <Compile Include="Assets\Balloon Popper\_Scripts\Balloon.cs" />
+    <Compile Include="Assets\Bowling\_Script\BowlingBall.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
